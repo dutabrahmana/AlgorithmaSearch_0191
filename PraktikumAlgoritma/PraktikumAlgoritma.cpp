@@ -38,6 +38,6 @@ void LinearSearch()
 
 	do
 	{
-
+		// Accept the number to be searched
 	}
 }
