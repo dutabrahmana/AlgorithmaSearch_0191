@@ -39,5 +39,7 @@ void LinearSearch()
 	do
 	{
 		// Accept the number to be searched
+		cout << "\nEnter the elelemnt you want to search: ";// step 1
+
 	}
 }
