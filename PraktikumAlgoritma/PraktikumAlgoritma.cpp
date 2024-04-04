@@ -11,5 +11,9 @@ void input()
 	{
 		cout << "Enter the number of elements in the array: ";
 		cin >> n;
+		if ((n > 0) && (n <= 20))
+		
+
+
 	}
 }
